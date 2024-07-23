@@ -1,11 +1,12 @@
 Quiz App With Flask
 <br>
+Veritabanının geliştiricinin elinde olduğu flask application
 ![Ekran görüntüsü 2024-07-23 144432](https://github.com/user-attachments/assets/bbc520ca-3d2b-41ce-bfc0-e739b492f78d)
 ![Ekran görüntüsü 2024-07-23 144421](https://github.com/user-attachments/assets/f0275327-8d6c-42d4-bca3-9837ded49f7f)
 
 1. Soru ve Cevap Yönetimi
 Soruları Depolama: Uygulama, genellikle soruları ve bu sorulara karşılık gelen cevap seçeneklerini veritabanında saklar.
-Cevapları Kontrol Etme: Kullanıcıların seçtiği cevapları doğru cevaplarla karşılaştırır ve sonuçları hesaplar.
+Cevapları Kontrol Etme: Kullanıcıların seçtiği cevapları doğru cevaplarla karşılaştırır ve sonuçları hesaplar. <br>
 ![Ekran görüntüsü 2024-07-23 144529](https://github.com/user-attachments/assets/c753b809-628a-417d-9abf-9294cab3faa2)
 ![Ekran görüntüsü 2024-07-23 144523](https://github.com/user-attachments/assets/42e576de-02a5-44ac-a9bd-a44eab258bd6)
 3. Kullanıcı Etkileşimi
@@ -14,7 +15,7 @@ Sonuçları Gösterme: Kullanıcının doğru cevaplarını ve toplam puanını 
 4. Veritabanı İşlemleri
 Soru Listesi Alma: Soru ve cevapları veritabanından alır ve kullanıcıya gösterir.
 Sonuçları Saklama (Opsiyonel): Kullanıcıların geçmiş sonuçlarını saklar ve daha sonra analiz edebilir.
-5. Flask ile Çalışma
+5. Flask ile Çalışma<br>
 Flask, Python ile yazılmış bir mikro web çerçevesidir ve bu tür uygulamalar için web sunucusu olarak kullanılır. Bu uygulamada Flask'ın rolü şu şekildedir:
 ![Ekran görüntüsü 2024-07-23 144432](https://github.com/user-attachments/assets/bbc520ca-3d2b-41ce-bfc0-e739b492f78d)
 ![Ekran görüntüsü 2024-07-23 144421](https://github.com/user-attachments/assets/f0275327-8d6c-42d4-bca3-9837ded49f7f)
