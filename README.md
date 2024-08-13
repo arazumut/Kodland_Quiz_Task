@@ -21,10 +21,10 @@ Cevapları Kontrol Etme: Kullanıcıların seçtiği cevapları doğru cevaplarl
 3. Kullanıcı Etkileşimi
 Soru Gösterimi: Kullanıcıya soruları ve seçenekleri sunar.
 Sonuçları Gösterme: Kullanıcının doğru cevaplarını ve toplam puanını gösterir.
-4. Veritabanı İşlemleri
+5. Veritabanı İşlemleri
 Soru Listesi Alma: Soru ve cevapları veritabanından alır ve kullanıcıya gösterir.
 Sonuçları Saklama (Opsiyonel): Kullanıcıların geçmiş sonuçlarını saklar ve daha sonra analiz edebilir.
-5. Flask ile Çalışma<br>
+6. Flask ile Çalışma<br>
 Flask, Python ile yazılmış bir mikro web çerçevesidir ve bu tür uygulamalar için web sunucusu olarak kullanılır. Bu uygulamada Flask'ın rolü şu şekildedir:
 ![Ekran görüntüsü 2024-07-23 144432](https://github.com/user-attachments/assets/bbc520ca-3d2b-41ce-bfc0-e739b492f78d)
 ![Ekran görüntüsü 2024-07-23 144421](https://github.com/user-attachments/assets/f0275327-8d6c-42d4-bca3-9837ded49f7f)
