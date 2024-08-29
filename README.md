@@ -24,7 +24,7 @@ Sonuçları Gösterme: Kullanıcının doğru cevaplarını ve toplam puanını 
 5. Veritabanı İşlemleri
 Soru Listesi Alma: Soru ve cevapları veritabanından alır ve kullanıcıya gösterir.
 Sonuçları Saklama (Opsiyonel): Kullanıcıların geçmiş sonuçlarını saklar ve daha sonra analiz edebilir.
-6. Flask ile Çalışma<br>
+7. Flask ile Çalışma<br>
 Flask, Python ile yazılmış bir mikro web çerçevesidir ve bu tür uygulamalar için web sunucusu olarak kullanılır. Bu uygulamada Flask'ın rolü şu şekildedir:
 ![Ekran görüntüsü 2024-07-23 144432](https://github.com/user-attachments/assets/bbc520ca-3d2b-41ce-bfc0-e739b492f78d)
 ![Ekran görüntüsü 2024-07-23 144421](https://github.com/user-attachments/assets/f0275327-8d6c-42d4-bca3-9837ded49f7f)
